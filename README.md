@@ -6,4 +6,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/D
 BanjoGui
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/BanjoGui"))()
 
+Airweld
+https://github.com/NotImportantScripts/Dead-Rails/blob/main/AirWeld
 
+also join these cool servos :D
+https://discord.gg/ringta
+https://discord.gg/karrahub
