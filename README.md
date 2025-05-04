@@ -39,6 +39,8 @@ Come vibe, share scripts, or scream into the void:
 
 - [Ringta](https://discord.gg/ringta)
 - [KarraHub](https://discord.gg/karrahub)
+- [LastExploiters](https://discord.gg/PKBSxN7w)
+- [TomTom Scirpts](https://discord.gg/JPFS9zNG)
 
 ---
 
