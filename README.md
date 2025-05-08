@@ -15,7 +15,7 @@ They work. Usually. Probably. I think.
 ## 🎮 Scripts You’ll Probably Regret Running
 
 ### 🧭 TpCamp  
-Teleportation magic. Or madness. Either way:  
+Teleport to outlaw camp or bandit camp whatever you call it.  
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/TpCamp.lua"))()
 ```
@@ -23,7 +23,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/D
 ---
 
 ### 🎛️ BanjoGui  
-A GUI made for people who click buttons without thinking.  
+A GUI to autoplay banjo songs (have linggang guli guli for you brainrots).  
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/BanjoGui.lua"))()
 ```
@@ -31,12 +31,18 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/D
 ---
 
 ### 🔩 AirWeld  
-Physics? Never heard of her.  
+Physics? Never heard of it.  
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/AirWeld.lua"))()
 ```
 
 ---
+
+### 🚫 AnticheatBypasser  
+Sounds like the name, use infinite yield also you cannot drag objects after executing this script. Will fix soon.
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/refs/heads/main/AnticheatBypassr.lua"))()
+```
 
 ## 🧠 Join My Totally Normal Servers
 
