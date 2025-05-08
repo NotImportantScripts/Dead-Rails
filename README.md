@@ -17,7 +17,7 @@ They work. Usually. Probably. I think.
 ### 🧭 TpCamp  
 Teleportation magic. Or madness. Either way:  
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/refs/heads/main/TpCamp"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/TpCamp.lua"))()
 ```
 
 ---
@@ -25,7 +25,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/D
 ### 🎛️ BanjoGui  
 A GUI made for people who click buttons without thinking.  
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/BanjoGui"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/BanjoGui.lua"))()
 ```
 
 ---
@@ -33,7 +33,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/D
 ### 🔩 AirWeld  
 Physics? Never heard of her.  
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/refs/heads/main/AirWeld"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/AirWeld.lua"))()
 ```
 
 ---
@@ -42,17 +42,17 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/D
 
 Come vibe, share scripts, or just send memes at 4AM:
 
-- [Ringta](https://discord.gg/ringta) — where I pretend to be productive
-- [KarraHub](https://discord.gg/karrahub) — home of probably too many exploiters
-- [LastExploiters](https://discord.gg/PKBSxN7w) — self-explanatory
-- [TomTom Scripts](https://discord.gg/JPFS9zNG) — for people who script and also maybe drive
+- [Ringta](https://discord.gg/ringta) — where I pretend to be productive  
+- [KarraHub](https://discord.gg/karrahub) — home of probably too many exploiters  
+- [LastExploiters](https://discord.gg/PKBSxN7w) — self-explanatory  
+- [TomTom Scripts](https://discord.gg/JPFS9zNG) — for people who script and also maybe drive  
 
 ---
 
 ## ⚠️ Legal-ish Stuff
 
-- Scripts are **obfuscated**. Yes, intentionally. No, I won’t explain them.
-- Use at your own risk. If your Roblox account becomes sentient and leaves you, that’s on you.
+- Scripts are **obfuscated**. Yes, intentionally. No, I won’t explain them.  
+- Use at your own risk. If your Roblox account becomes sentient and leaves you, that’s on you.  
 - I script for fun — and officially for **Ringta** and **KarraHub**.
 
 ---
@@ -69,7 +69,7 @@ A: Because mystery is fun. Also, because copy-pasters give me hives.
 A: Only if you run them while screaming “I’M EXPLOITING!” in global chat.
 
 **Q: Can I DM you on Discord?**  
-A: Absolutely. Whether I answer is between me and my dopamine levels.
+A: Absolutely. My Discord is `notextrovert12` — whether I answer is between me and my dopamine levels.
 
 ---
 
