@@ -1,109 +1,94 @@
-# âš¡ NotImportantScripts â€“ Dead Rails Edition
+# Dead-Rails Scripts – Totally Serious, Definitely Maintained
 
-> *A majestic collection of scripts nobody asked for, and everyone regrets using.*  
-> Disclaimer: Use at your own risk. Or donâ€™t. Iâ€™m not your dad.
+> 🛑 I officially quit being a dev in the Ringta server. Take these scripts, mock them, cherish them, whatever.
 
----
-
-### âŒ I quit being a dev in the Ringta server.
-Yes, for real. No, I wonâ€™t come back. Time to unleash chaos somewhere else.
+Welcome to the most chaotic collection of Lua spaghetti you've ever seen. Below is a list of every script I ever made for this chaotic mess game called Dead Rails on roblox, sorted with the newest ones at the top. Enjoy the junk.
 
 ---
 
-## ðŸ§ª Freshest Spaghetti (Sorted by Commit Date)
+## 📜 Script List (Most recent at top)
 
-### ðŸŒ€ AutoSwingGui.lua *(May 18, 2025)*  
-Swings for you, because you have better things to do (like AFK in style).  
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/AutoSwingGui.lua"))()
-```
+### 🟢 `AutoSwingGui.lua`
+Added: May 18, 2025  
+A GUI to auto swing. That’s it. You're welcome.
 
 ---
 
-### ðŸ¦… vfly.lua *(May 17, 2025)*  
-DO NOT EXECUTE. Seriously. It wonâ€™t do anything. Trust me.  
-```lua
--- Don't even bother.
-```
+### 🟢 `vfly.lua`
+Added: May 17, 2025  
+Don't execute this. It literally does nothing. Trust me. It just... sits there. Looking pretty.
 
 ---
 
-### ðŸŽ’ BringItem.lua *(May 16, 2025)*  
-Fetches items like youâ€™ve got telekinesis. Works with weirdly named junk too.  
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/BringItem.lua"))()
-```
+### 🟢 `BringItem.lua`
+Added: May 16, 2025  
+Brings the specified item(s) to you. You say "come here", it says "how many?".
 
 ---
 
-### ðŸ”’ AnticheatBypassr.lua *(May 12, 2025)*  
-Because rules were made to be broken. Bypasses anticheats (maybe).  
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/AnticheatBypassr.lua"))()
-```
+### 🟠 `AnticheatBypassr.lua`
+Added: May 12, 2025  
+Does exactly what it says. Bypasses anti-cheat... probably. If you get banned, you didn't read the fine print.
 
 ---
 
-### ðŸŽ›ï¸ BanjoGui.lua *(May 8, 2025)*  
-Helps you find your long-lost banjo. It probably wasnâ€™t stolen. Probably.  
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/BanjoGui.lua"))()
-```
+### 🔴 `DONT-EXECUTE-THIS-ISTG.lua`
+Added: May 12, 2025  
+No, seriously, **don’t execute this**. I’m warning you. This exists purely as a trap for the curious.
 
 ---
 
-### ðŸ§² TomsHub.lua *(May 8, 2025)*  
-Like a hub, but named Tom. You get it.  
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/TomsHub.lua"))()
-```
+### 🎸 `BanjoGui.lua`
+Added: May 8, 2025  
+A GUI... for banjos. Sounds dumb? That’s because it is. But it works.
 
 ---
 
-### ðŸ•ï¸ TpCamp.lua *(May 8, 2025)*  
-Teleports you to the camp. Because walking is for mortals.  
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/TpCamp.lua"))()
-```
+### 🧲 `TpBarn.lua`
+Added: May 8, 2025  
+Teleport to the barn. Why walk when you can instantly regret being there?
 
 ---
 
-### ðŸ„ TpBarn.lua *(May 8, 2025)*  
-Straight to the barn. Yeehaw.  
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/TpBarn.lua"))()
-```
+### 🧭 `TpCamp.lua`
+Added: May 8, 2025  
+Teleport to the camp. Roasting marshmallows not included.
 
 ---
 
-### ðŸ¤– AllyDrag.lua *(May 8, 2025)*  
-**NOT server-side.** Youâ€™ll only be dragging them on your screen. Sad, I know.  
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/AllyDrag.lua"))()
-```
+### 💀 `TomsHub.lua`
+Added: May 8, 2025  
+My weird little hub of horrors. Contains all the stuff I forgot to document.
 
 ---
 
-### ðŸ”§ AirWeld.lua *(May 8, 2025)*  
-Magically welds stuff. Donâ€™t ask how. It just works.  
-```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/AirWeld.lua"))()
-```
+### 🕊️ `AllyDrag.lua`
+Added: May 8, 2025  
+Drags allies. BUT — and this is important — **it's not server-side.** Don’t act shocked when it desyncs or explodes.
 
 ---
 
-### â˜ ï¸ DONT-EXECUTE-THIS-ISTG.lua *(May 8, 2025)*  
-No seriously. DO. NOT. EXECUTE. This script exists purely to destroy you.  
-```lua
--- You're still reading? You really want to explode?
-```
+### 🔧 `AirWeld.lua`
+Added: May 8, 2025  
+Some Frankenstein weld system I made in 3 AM panic. No guarantees it’ll weld anything useful.
 
 ---
 
-### ðŸŒ NotImportant.html *(May 4, 2025)*  
-The one and only totally unnecessary HTML file. Whatâ€™s it doing here? Who knows.
-```html
-<!-- Definitely not Lua -->
-```
+### 🖼️ `NotImportant.html`
+Added: May 4, 2025  
+Literally a website about how not important I am. Peak sarcasm. Peak ego. No CSS tho.
+
+---
+
+## 🤡 Bonus
+
+**README.md** — the thing you're reading right now. oh probably noones reads this lol.
+
+---
+
+## 💬 Final Note
+
+I’m done being a dev in the Ringta server. I'm a dev in KarraHub and Doggo's Hub now. These scripts are here for laughs, hacks, and possibly catastrophic errors.  
+Use with caution. Or don't. I'm not your dad.
 
 ---
