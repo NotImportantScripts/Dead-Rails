@@ -1,82 +1,109 @@
-# ⚡ NotImportantScripts
+# âš¡ NotImportantScripts â€“ Dead Rails Edition
 
-> *Yes, I script for fun. No, you can't read it — it's obfuscated for a reason.*  
-> Some people bake cookies for fun. I make scripts that may or may not ruin your Roblox session. Balance.
-
----
-
-## 🧪 What Is This?
-
-A chaotic collection of Roblox scripts written at 3AM with questionable logic and even worse intentions.  
-They work. Usually. Probably. I think.
+> *A majestic collection of scripts nobody asked for, and everyone regrets using.*  
+> Disclaimer: Use at your own risk. Or donâ€™t. Iâ€™m not your dad.
 
 ---
 
-## 🎮 Scripts You’ll Probably Regret Running
+### âŒ I quit being a dev in the Ringta server.
+Yes, for real. No, I wonâ€™t come back. Time to unleash chaos somewhere else.
 
-### 🧭 TpCamp  
-Teleport to outlaw camp or bandit camp whatever you call it.  
-```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/TpCamp.lua"))()
+---
+
+## ðŸ§ª Freshest Spaghetti (Sorted by Commit Date)
+
+### ðŸŒ€ AutoSwingGui.lua *(May 18, 2025)*  
+Swings for you, because you have better things to do (like AFK in style).  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/AutoSwingGui.lua"))()
 ```
 
 ---
 
-### 🎛️ BanjoGui  
-A GUI to autoplay banjo songs (have linggang guli guli for you brainrots).  
+### ðŸ¦… vfly.lua *(May 17, 2025)*  
+DO NOT EXECUTE. Seriously. It wonâ€™t do anything. Trust me.  
+```lua
+-- Don't even bother.
 ```
+
+---
+
+### ðŸŽ’ BringItem.lua *(May 16, 2025)*  
+Fetches items like youâ€™ve got telekinesis. Works with weirdly named junk too.  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/BringItem.lua"))()
+```
+
+---
+
+### ðŸ”’ AnticheatBypassr.lua *(May 12, 2025)*  
+Because rules were made to be broken. Bypasses anticheats (maybe).  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/AnticheatBypassr.lua"))()
+```
+
+---
+
+### ðŸŽ›ï¸ BanjoGui.lua *(May 8, 2025)*  
+Helps you find your long-lost banjo. It probably wasnâ€™t stolen. Probably.  
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/BanjoGui.lua"))()
 ```
 
 ---
 
-### 🔩 AirWeld  
-Physics? Never heard of it.  
+### ðŸ§² TomsHub.lua *(May 8, 2025)*  
+Like a hub, but named Tom. You get it.  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/TomsHub.lua"))()
 ```
+
+---
+
+### ðŸ•ï¸ TpCamp.lua *(May 8, 2025)*  
+Teleports you to the camp. Because walking is for mortals.  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/TpCamp.lua"))()
+```
+
+---
+
+### ðŸ„ TpBarn.lua *(May 8, 2025)*  
+Straight to the barn. Yeehaw.  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/TpBarn.lua"))()
+```
+
+---
+
+### ðŸ¤– AllyDrag.lua *(May 8, 2025)*  
+**NOT server-side.** Youâ€™ll only be dragging them on your screen. Sad, I know.  
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/AllyDrag.lua"))()
+```
+
+---
+
+### ðŸ”§ AirWeld.lua *(May 8, 2025)*  
+Magically welds stuff. Donâ€™t ask how. It just works.  
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/main/AirWeld.lua"))()
 ```
 
 ---
 
-### 🚫 AnticheatBypasser  
-Sounds like the name, use infinite yield also you cannot drag objects after executing this script. Will fix soon.
+### â˜ ï¸ DONT-EXECUTE-THIS-ISTG.lua *(May 8, 2025)*  
+No seriously. DO. NOT. EXECUTE. This script exists purely to destroy you.  
+```lua
+-- You're still reading? You really want to explode?
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NotImportantScripts/Dead-Rails/refs/heads/main/AnticheatBypassr.lua"))()
+
+---
+
+### ðŸŒ NotImportant.html *(May 4, 2025)*  
+The one and only totally unnecessary HTML file. Whatâ€™s it doing here? Who knows.
+```html
+<!-- Definitely not Lua -->
 ```
 
-## 🧠 Join My Totally Normal Servers
-
-Come vibe, share scripts, or just send memes at 4AM:
-
-- [Ringta](https://discord.gg/ringta) — where I pretend to be productive  
-- [KarraHub](https://discord.gg/karrahub) — home of probably too many exploiters  
-- [LastExploiters](https://discord.gg/PKBSxN7w) — self-explanatory  
-- [TomTom Scripts](https://discord.gg/JPFS9zNG) — for people who script and also maybe drive  
-
 ---
-
-## ⚠️ Legal-ish Stuff
-
-- Scripts are **obfuscated**. Yes, intentionally. No, I won’t explain them.  
-- Use at your own risk. If your Roblox account becomes sentient and leaves you, that’s on you.  
-- I script for fun — and officially for **Ringta** and **KarraHub**.
-
----
-
-## ❓ Q&A
-
-**Q: Can I get the unobfuscated version?**  
-A: Sure, right after I hand over my bank info and social security number.
-
-**Q: Why are the scripts obfuscated?**  
-A: Because mystery is fun. Also, because copy-pasters give me hives.
-
-**Q: Do your scripts get me banned?**  
-A: Only if you run them while screaming “I’M EXPLOITING!” in global chat.
-
-**Q: Can I DM you on Discord?**  
-A: Absolutely. My Discord is `notextrovert12` — whether I answer is between me and my dopamine levels.
-
----
-
-Made by **NotImportant** — fueled by caffeine, chaos, and questionable life choices.
